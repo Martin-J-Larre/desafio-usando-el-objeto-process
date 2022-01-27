@@ -28,7 +28,7 @@
 ### Desafío usando el objeto process
 ## Consigna 1
 * corriendo el comando en consola > node index.js server por defecto en el puerto 8080
-![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-login-formulario/main/img-video/sqlStudio.JPG)
+![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-usando-el-objeto-process/main/assets/por-defecto.JPG)
 * corriendo el comando en consola > node index.js -p #### / ej. -p 8000 , el puerto es otorgado por argumentos en la linea de comando
 ![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-login-formulario/main/img-video/sqlStudio.JPG)
 ## Consigna 2
