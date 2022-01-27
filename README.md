@@ -17,7 +17,7 @@
 
 ### Para correr el programa
 * npm install
-* Crear un .env y colocar en MONGO_URI la url de la base de datos
+* Crear un .env, agregar lo que esta dentro de .env.exaple y colocar en MONGO_URI la url de la base de datos
 * Conectar Sqlite3
 ![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-login-formulario/main/img-video/sqlStudio.JPG)
 * npm run dev
