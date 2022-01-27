@@ -35,7 +35,7 @@
 * Agregar una ruta '/info' que presente en una vista sencilla los siguientes datos:
 ![alt text](https://github.com/Martin-J-Larre/desafio-usando-el-objeto-process/blob/main/assets/info.JPG?raw=true)
 ## Consigna 3
-* Sin parametros ej. -------> http://localhost:8080/api/randoms
+* Sin parametros ej. -------> `http://localhost:8080/api/randoms`
 ![alt text](https://github.com/Martin-J-Larre/desafio-usando-el-objeto-process/blob/main/assets/tres-a.JPG?raw=true)
-* Con parametros ej. -------> http://localhost:8080/api/randoms?cant=2000
+* Con parametros ej. -------> `http://localhost:8080/api/randoms?cant=2000`
 ![alt text](https://github.com/Martin-J-Larre/desafio-usando-el-objeto-process/blob/main/assets/tres-b.JPG?raw=true)
