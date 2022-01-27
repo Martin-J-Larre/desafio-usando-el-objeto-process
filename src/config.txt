@@ -1,0 +1,3 @@
+MONGO_URI='mongodb+srv://root:toor@cluster0.zntdz.mongodb.net/test'
+SECRET=This is my secret word.
+max_age=600000
