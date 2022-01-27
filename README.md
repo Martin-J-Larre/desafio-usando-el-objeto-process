@@ -27,15 +27,15 @@
 
 ### Desafío usando el objeto process
 ## Consigna 1
-* corriendo el comando en consola > node index.js server por defecto en el puerto 8080
+* Correr el comando en consola > node index.js server por defecto en el puerto 8080
 ![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-usando-el-objeto-process/main/assets/por-defecto.JPG)
-* corriendo el comando en consola > node index.js -p #### / ej. -p 8000 , el puerto es otorgado por argumentos en la linea de comando
-![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-login-formulario/main/img-video/sqlStudio.JPG)
+* Correr el comando en consola > node index.js -p #### / ej. -p 8000 , el puerto es otorgado por argumentos en la linea de comando
+![alt text](https://github.com/Martin-J-Larre/desafio-usando-el-objeto-process/blob/main/assets/por-comando.JPG?raw=true)
 ## Consigna 2
 * Agregar una ruta '/info' que presente en una vista sencilla los siguientes datos:
-![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-login-formulario/main/img-video/sqlStudio.JPG)
+![alt text](https://github.com/Martin-J-Larre/desafio-usando-el-objeto-process/blob/main/assets/info.JPG?raw=true)
 ## Consigna 3
 * Sin parametros ej. -------> http://localhost:8080/api/randoms
-![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-login-formulario/main/img-video/sqlStudio.JPG)
+![alt text](https://github.com/Martin-J-Larre/desafio-usando-el-objeto-process/blob/main/assets/tres-a.JPG?raw=true)
 * Con parametros ej. -------> http://localhost:8080/api/randoms?cant=2000
-![alt text](https://raw.githubusercontent.com/Martin-J-Larre/desafio-login-formulario/main/img-video/sqlStudio.JPG)
+![alt text](https://github.com/Martin-J-Larre/desafio-usando-el-objeto-process/blob/main/assets/tres-b.JPG?raw=true)
